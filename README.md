@@ -1,6 +1,6 @@
 # hello-world
 
-// C prog for the Linux-command 'type »filename«' using 'type'
+// C prog for the Linux-command 'type »commandname«' using 'type'
 
 #include <stdlib.h>
 
